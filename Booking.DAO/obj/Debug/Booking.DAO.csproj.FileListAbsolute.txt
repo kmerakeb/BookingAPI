@@ -1,0 +1,16 @@
+C:\Users\dell\documents\visual studio 2015\Projects\ZetaBooking\Booking.DAO\bin\Debug\Booking.DAO.dll
+C:\Users\dell\documents\visual studio 2015\Projects\ZetaBooking\Booking.DAO\bin\Debug\Booking.DAO.pdb
+C:\Users\dell\documents\visual studio 2015\Projects\ZetaBooking\Booking.DAO\obj\Debug\Booking.DAO.dll
+C:\Users\dell\documents\visual studio 2015\Projects\ZetaBooking\Booking.DAO\obj\Debug\Booking.DAO.pdb
+C:\Users\dell\documents\visual studio 2015\Projects\ZetaBooking\Booking.DAO\obj\Debug\Booking.DAO.csprojResolveAssemblyReference.cache
+C:\Users\Work\Documents\Visual Studio 2015\Projects\ZetaBooking\Booking.DAO\bin\Debug\Booking.DAO.dll
+C:\Users\Work\Documents\Visual Studio 2015\Projects\ZetaBooking\Booking.DAO\bin\Debug\Booking.DAO.pdb
+C:\Users\Work\Documents\Visual Studio 2015\Projects\ZetaBooking\Booking.DAO\obj\Debug\Booking.DAO.csprojResolveAssemblyReference.cache
+C:\Users\Work\Documents\Visual Studio 2015\Projects\ZetaBooking\Booking.DAO\obj\Debug\Booking.DAO.dll
+C:\Users\Work\Documents\Visual Studio 2015\Projects\ZetaBooking\Booking.DAO\obj\Debug\Booking.DAO.pdb
+C:\Users\Work\Desktop\New folder\ZetaBooking\Booking.DAO\bin\Debug\Booking.DAO.dll
+C:\Users\Work\Desktop\New folder\ZetaBooking\Booking.DAO\bin\Debug\Booking.DAO.pdb
+C:\Users\Work\Desktop\New folder\ZetaBooking\Booking.DAO\obj\Debug\Booking.DAO.csprojAssemblyReference.cache
+C:\Users\Work\Desktop\New folder\ZetaBooking\Booking.DAO\obj\Debug\Booking.DAO.csproj.CoreCompileInputs.cache
+C:\Users\Work\Desktop\New folder\ZetaBooking\Booking.DAO\obj\Debug\Booking.DAO.dll
+C:\Users\Work\Desktop\New folder\ZetaBooking\Booking.DAO\obj\Debug\Booking.DAO.pdb

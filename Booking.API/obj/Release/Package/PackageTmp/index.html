@@ -1,0 +1,148 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <title>Zetasim Booking Web API Supported Http requests:::</title>
+	<meta charset="utf-8" />
+</head>
+<body style="background-color:antiquewhite;">
+    <h1><span>ZETASIM Web API: HTTP requests</span></h1>
+    <div style="margin-left:200px;">
+  <h4>Returning all the categories with the businesses belonging to each category</h4>
+    o	/api/businesscategories
+    <h4>Returning a single Category</h4>
+    o	/api/businesscategories/id
+    <h4>Returning List of businesses that belongs to a category</h4>
+    o	/api/businesscategories/id/businesses
+    <h4>Returning a business that belong to a category</h4>
+    o	/api/businesscategories/id/businesses/id
+    <h4>Returning all busineses without accesss categories: Retuns same as in (3)</h4>	
+    o	/api/businesses
+    <h4>Returing single business: Returns same as in (4)</h4>
+    o	/api/businesses/id
+    <h4>Allowing inclusion of associated resources</h4>
+    o	/api/businesscategories/1?fileds=id,description
+    <h4>Pagination</h4>
+    o	/api/addresses?page=2&pagSize=3
+    <h4>Inclusion of associated resources</h4>
+    <h5>Support for Field Selection:</h5>
+    o	/api/businesscategories/1/businesses?fields=id,description
+    <h5>Association and Data shapping</h5>
+    o	http://localhost:60068/api/businesscategories?fields=businesses
+    o	http://localhost:60068/api/businesscategories?fields=id,description,businesses
+    <h5>Association using fields on the query string on businesses for addresses</h5>
+    o	http://localhost:60068/api/businesses?fields=addresses
+    o	/api/businesses?fields=businessName,openingHour,closingHour,addresses (with More Fields).
+    •	http://localhost:60068/api/businesses?fields=id,dateCreated,businessName,businessType,description,addresses
+
+    http://localhost:60068/api/businesscategories?fields=id,categoryName,description,businesses
+
+    <h4>Create New Category:</h4>
+    POST : http://localhost:60068/api/businesscategories
+    {"categoryName": "SPAs",
+    "description": "quam vel sapien imperdiet ornare."}
+   <h4> Update a Category:</h4>
+    http://localhost:60068/api/businesscategories/102
+    {
+    "id": 102,
+    "categoryName": "Accuressure updated",
+    "description": "quam vel sapien imperdiet ornare."
+    }// include id in the update body
+
+   <h4> Get One Business</h4>
+    http://localhost:60068/api/businesses/1
+   <h4> Get All Businesses</h4>
+    http://localhost:60068/api/businesses
+   <h4> Get Specific fields of the businesses</h4>
+    http://localhost:60068/api/businesses?fields=id,businessName,businessType
+    <h4>Get Specific fields of the businesses including the addresses</h4>
+    http://localhost:60068/api/businesses?fields=id,businessName,businessType,addresses
+    <h4>Sorting Businesses by businessName</h4>
+    http://localhost:60068/api/businesses?sort=businessName
+   <h4> Create New Business:</h4>
+    POST: http://localhost:60068/api/businesses
+    {
+    "businessName": "Consequat Dolor Inc. New Entry",
+    "businessType": "SPA",
+    "description": "morbi tristique senectus et netus et malesuada fames ac turpis",
+    "businessCategoryId": 1,
+    "lastUpdate": "2017-09-18T00:00:00",
+    "dateCreated": "2017-04-01T00:00:00",
+    "openingHour": "2017-03-02T00:00:00",
+    "closingHour": "2016-12-03T00:00:00"
+    }
+        <h4>Get all bookiings </h4>
+        /api/books
+        <h4>Sort the booking with any property</h4>
+        <p>/api/books?sort=*******,******</p>
+        <h4>Get on Book</h4>
+        <p>GET: /api/books/id</p>
+        <h4>Update Book</h4>
+        Put: /api/books/id
+        <h4> Create New Book</h4>
+        <p>POST : /api/books</p>
+        <h4> Delete Book</h4>
+        <p>DELETE: /api/books/id</p>
+
+
+        <h4>Get all services </h4>
+        /api/services
+        <h4>Sort the services with any property</h4>
+        <p>/api/services?sort=*******,******</p>
+        <h4>Get on service</h4>
+        <p>GET: /api/services/id</p>
+        <h4>Update service</h4>
+        Put: /api/services/id
+        <h4> Create New service</h4>
+        <p>POST : /api/services</p>
+        <h4> Delete service</h4>
+        <p>DELETE: /api/services/id</p>
+
+        <h4>Get all customers </h4>
+        /api/customers
+        <h4>Sort the customers with any property</h4>
+        <p>/api/customers?sort=*******,******</p>
+        <h4>Get on customers</h4>
+        <p>GET: /api/customers/id</p>
+        <h4>Update customer</h4>
+        Put: /api/customers/id
+        <h4> Create New customer</h4>
+        <p>POST : /api/customers</p>
+        <h4> Delete customer</h4>
+        <p>DELETE: /api/customers/id</p>
+        <h4> Get all customers with Bookings</h4>
+        <p></p>
+        <h4>Get Customer with list of bookings</h4>
+        <p>http://localhost:60068/api/customers?fields=firstName,lastName,email,phone,businesses,books</p>
+
+    <h4>Update a Business</h4>
+    PUT :  http://localhost:60068/api/businesses/117
+    {
+    “id” : 117
+    "businessName": "Consequat Dolor Inc. New Entry Updated",
+    "businessType": "SPA",
+    "description": "morbi tristique senectus et netus et malesuada fames ac turpis",
+    "businessCategoryId": 1,
+    "lastUpdate": "2017-09-18T00:00:00",
+    "dateCreated": "2017-04-01T00:00:00",
+    "openingHour": "2017-03-02T00:00:00",
+    "closingHour": "2016-12-03T00:00:00"
+    }
+   <h4> Delete Business:</h4>
+    Delete: http://localhost:60068/api/businesses/117
+    Return NoContent.
+
+    <h4>Get Addresses list:  supports sorting</h4>
+    http://localhost:60068/api/addresses
+    <h4>Get Customers List:  supports sorting</h4>
+    http://localhost:60068/api/customers
+    <h4>Supporting Cashing:</h4>
+    The API generates ETAGS
+    <h4>Supporting CORS</h4>
+
+    <p><span>//// Consuming the API</span></p>
+    In an mvc application we use HttpClient provided by Microsoft.
+    Microsoft.net.http
+        </div>
+
+</body>
+</html>

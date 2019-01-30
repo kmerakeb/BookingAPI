@@ -1,0 +1,5 @@
+C:\Users\Work\Documents\Visual Studio 2015\Projects\ZetaBooking\Booking.Constants\bin\Release\Booking.Constants.dll
+C:\Users\Work\Documents\Visual Studio 2015\Projects\ZetaBooking\Booking.Constants\bin\Release\Booking.Constants.pdb
+C:\Users\Work\Documents\Visual Studio 2015\Projects\ZetaBooking\Booking.Constants\obj\Release\Booking.Constants.csprojResolveAssemblyReference.cache
+C:\Users\Work\Documents\Visual Studio 2015\Projects\ZetaBooking\Booking.Constants\obj\Release\Booking.Constants.dll
+C:\Users\Work\Documents\Visual Studio 2015\Projects\ZetaBooking\Booking.Constants\obj\Release\Booking.Constants.pdb

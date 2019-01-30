@@ -1,0 +1,5 @@
+C:\Users\Work\Documents\Visual Studio 2015\Projects\ZetaBooking\Booking.DAO\bin\Release\Booking.DAO.dll
+C:\Users\Work\Documents\Visual Studio 2015\Projects\ZetaBooking\Booking.DAO\bin\Release\Booking.DAO.pdb
+C:\Users\Work\Documents\Visual Studio 2015\Projects\ZetaBooking\Booking.DAO\obj\Release\Booking.DAO.csprojResolveAssemblyReference.cache
+C:\Users\Work\Documents\Visual Studio 2015\Projects\ZetaBooking\Booking.DAO\obj\Release\Booking.DAO.dll
+C:\Users\Work\Documents\Visual Studio 2015\Projects\ZetaBooking\Booking.DAO\obj\Release\Booking.DAO.pdb

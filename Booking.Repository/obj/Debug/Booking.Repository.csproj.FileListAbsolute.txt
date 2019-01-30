@@ -1,0 +1,35 @@
+C:\Users\dell\documents\visual studio 2015\Projects\ZetaBooking\Booking.Repository\bin\Debug\Booking.Repository.dll
+C:\Users\dell\documents\visual studio 2015\Projects\ZetaBooking\Booking.Repository\bin\Debug\Booking.Repository.pdb
+C:\Users\dell\documents\visual studio 2015\Projects\ZetaBooking\Booking.Repository\bin\Debug\Booking.DAO.dll
+C:\Users\dell\documents\visual studio 2015\Projects\ZetaBooking\Booking.Repository\bin\Debug\EntityFramework.dll
+C:\Users\dell\documents\visual studio 2015\Projects\ZetaBooking\Booking.Repository\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\dell\documents\visual studio 2015\Projects\ZetaBooking\Booking.Repository\bin\Debug\Booking.DAO.pdb
+C:\Users\dell\documents\visual studio 2015\Projects\ZetaBooking\Booking.Repository\bin\Debug\EntityFramework.xml
+C:\Users\dell\documents\visual studio 2015\Projects\ZetaBooking\Booking.Repository\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\dell\documents\visual studio 2015\Projects\ZetaBooking\Booking.Repository\obj\Debug\Booking.Repository.csprojResolveAssemblyReference.cache
+C:\Users\dell\documents\visual studio 2015\Projects\ZetaBooking\Booking.Repository\obj\Debug\Booking.Repository.dll
+C:\Users\dell\documents\visual studio 2015\Projects\ZetaBooking\Booking.Repository\obj\Debug\Booking.Repository.pdb
+C:\Users\Work\Documents\Visual Studio 2015\Projects\ZetaBooking\Booking.Repository\bin\Debug\Booking.Repository.dll
+C:\Users\Work\Documents\Visual Studio 2015\Projects\ZetaBooking\Booking.Repository\bin\Debug\Booking.Repository.pdb
+C:\Users\Work\Documents\Visual Studio 2015\Projects\ZetaBooking\Booking.Repository\bin\Debug\Booking.DAO.dll
+C:\Users\Work\Documents\Visual Studio 2015\Projects\ZetaBooking\Booking.Repository\bin\Debug\EntityFramework.dll
+C:\Users\Work\Documents\Visual Studio 2015\Projects\ZetaBooking\Booking.Repository\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Work\Documents\Visual Studio 2015\Projects\ZetaBooking\Booking.Repository\bin\Debug\Booking.DAO.pdb
+C:\Users\Work\Documents\Visual Studio 2015\Projects\ZetaBooking\Booking.Repository\bin\Debug\EntityFramework.xml
+C:\Users\Work\Documents\Visual Studio 2015\Projects\ZetaBooking\Booking.Repository\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Work\Documents\Visual Studio 2015\Projects\ZetaBooking\Booking.Repository\obj\Debug\Booking.Repository.csprojResolveAssemblyReference.cache
+C:\Users\Work\Documents\Visual Studio 2015\Projects\ZetaBooking\Booking.Repository\obj\Debug\Booking.Repository.dll
+C:\Users\Work\Documents\Visual Studio 2015\Projects\ZetaBooking\Booking.Repository\obj\Debug\Booking.Repository.pdb
+C:\Users\Work\Desktop\New folder\ZetaBooking\Booking.Repository\bin\Debug\Booking.Repository.dll
+C:\Users\Work\Desktop\New folder\ZetaBooking\Booking.Repository\bin\Debug\Booking.Repository.pdb
+C:\Users\Work\Desktop\New folder\ZetaBooking\Booking.Repository\bin\Debug\Booking.DAO.dll
+C:\Users\Work\Desktop\New folder\ZetaBooking\Booking.Repository\bin\Debug\EntityFramework.dll
+C:\Users\Work\Desktop\New folder\ZetaBooking\Booking.Repository\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Work\Desktop\New folder\ZetaBooking\Booking.Repository\bin\Debug\Booking.DAO.pdb
+C:\Users\Work\Desktop\New folder\ZetaBooking\Booking.Repository\bin\Debug\EntityFramework.xml
+C:\Users\Work\Desktop\New folder\ZetaBooking\Booking.Repository\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Work\Desktop\New folder\ZetaBooking\Booking.Repository\obj\Debug\Booking.Repository.csprojAssemblyReference.cache
+C:\Users\Work\Desktop\New folder\ZetaBooking\Booking.Repository\obj\Debug\Booking.Repository.csproj.CoreCompileInputs.cache
+C:\Users\Work\Desktop\New folder\ZetaBooking\Booking.Repository\obj\Debug\Booking.Repository.csproj.CopyComplete
+C:\Users\Work\Desktop\New folder\ZetaBooking\Booking.Repository\obj\Debug\Booking.Repository.dll
+C:\Users\Work\Desktop\New folder\ZetaBooking\Booking.Repository\obj\Debug\Booking.Repository.pdb

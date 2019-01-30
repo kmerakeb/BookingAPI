@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="ZetaBookingContext-Web.config Connection String" description="ZetaBookingContext Connection String used in web.config by the application to access the database." defaultValue="Data Source=DESKTOP-C7HSTPI\SQLEXPRESS01;Initial Catalog=ZetasimbookDB;Integrated Security =SSPI;MultipleActiveResultSets=True" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="C:\\Users\\Work\\Documents\\Visual\ Studio\ 2015\\Projects\\ZetaBooking\\Booking\.API\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='ZetaBookingContext']/@connectionString" />
+  </parameter>
+</parameters>
